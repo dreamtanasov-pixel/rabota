@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rabotakurer.su/sitemap.xml
+Sitemap: https://edamsk.ru/sitemap.xml
